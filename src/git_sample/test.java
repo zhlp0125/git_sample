@@ -7,8 +7,8 @@ public class test {
 		System.out.println("Main method.[master]-->[branch3]");
 		System.out.println("Main method.[local]");
 		System.out.println("Main method.[remote server]");
-		System.out.println("Main method [before branch10 master]");
-		System.out.println("Main method [branch10]");
+		System.out.println("Main method [local before branch10 master]");
+		System.out.println("Main method [local branch10]");
 	}
 
 	public void run() {
