@@ -6,6 +6,8 @@ public class test {
 		System.out.println("Run method.[branch1]-->[branch2]-->[merge to branch1]");
 		System.out.println("Main method.[master]-->[branch3]");
 		System.out.println("Main method.[local]");
+		System.out.println("Main method.[remote server]");
+
 	}
 
 	public void run() {
