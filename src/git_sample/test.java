@@ -9,6 +9,8 @@ public class test {
 		System.out.println("Main method.[remote server]");
 		System.out.println("Main method [local before branch10 master]");
 		System.out.println("Main method [local branch10]");
+		System.out.println("Main method.[remote server]");
+		System.out.println("Main method.[remote server before branch10]");
 	}
 
 	public void run() {
