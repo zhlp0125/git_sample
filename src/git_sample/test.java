@@ -7,6 +7,7 @@ public class test {
 		System.out.println("Main method.[master]-->[branch3]");
 		System.out.println("Main method.[local]");
 		System.out.println("Main method.[remote server]");
+		System.out.println("Main method.[remote server before branch10]");
 
 	}
 
